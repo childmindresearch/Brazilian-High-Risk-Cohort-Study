@@ -431,31 +431,31 @@ sync_audio_instrc = [
     "o volume para ficar o mais alto possível, mas sem machucar os seus ouvidos.,
     "", "", "PClique em ‘Avançar’ para continuar."
 ]
-
-increase_vol = ["Increase the volume to a loud, but comfortable level."]
+increase_vol = ["Aumente o volume até um nível alto e confortável."]
 sync_test_instruc_1 = [
-    "SYNCHRONY TEST", "",
-    "We are going to play a game where you have to whisper the word 'ta' at",
-    "the same speed as a set of sounds you are going to hear. When you hear",  
-    "the sound, you will whisper 'ta' at the same speed at the same pace.",
-    "Let's do some practice!",
-    "", "", "Press 'Next' to continue."
+    "TESTE DE SINCRONIA", "",
+    "Vamos jogar um jogo em que você tem que sussurrar a palavra ‘ta’ no mesmo,
+    "ritmo de um grupo de sons que vai ouvir. Quando você escutar o som, vai,  
+    "sussurrar ‘ta’ na mesma velocidade e no mesmo ritmo.",
+    "Vamos praticar um pouco!",
+    "", "", " Clique em ‘Avançar’ para continuar."
 ]
 speaker_rate_training_instrct = [
-    "SPEAKING RATE TRAINING", "",
-    "Now you are going to hear a set of sounds. Please be quiet and pay attention",
-    "to the speed the sounds are being spoken.",
-    "","", "Press 'Next' when you are ready."
+    "TREINAMENTO DE VELOCIDADE DE FALA", "",
+    "Agora você vai ouvir um conjunto de sons. Por favor, fique em silêncio e preste atenção",
+    "na velocidade com que os sons estão sendo falados.",
+    "","", "Clique em ‘Avançar’ quando estiver pronto(a)."
 ]
-speaker_rate_training = ["LISTEN"]
+speaker_rate_training = ["ESCUTE"]
 whisper_ta_instrc = [
-    "Now it is your turn!",
-    "When I say 'Go', start whispering 'ta' at the SAME SPEED as the",
-    "sound you just heard. Can you practice whispering 'ta' for me?",
-    "","(Practice whispering 'ta'.)",
-    "", "Press 'Next' to continue."
+    "Agora é a sua vez!",
+    "Quando eu disser ‘Já’, comece a sussurrar ‘ta’ na MESMA VELOCIDADE do som ",
+    "que você acabou de escutar. Você pode sussurrar ‘ta’ pra mim?",
+    "","(Pratique sussurrar ‘ta’)",
+    "", "Clique em ‘Avançar’ para continuar."
 ]
-whisper_ta = ["Recording! Continue to whisper 'ta ta ta'."]
+whisper_ta = ["Gravando! Continue sussurrando ‘ta ta ta’."]
+
 sync_test_instruc_2 = [
     "SYNCHRONY TEST", "",
     "We are ready to play the game! You will now hear some sounds through your",
