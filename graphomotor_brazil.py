@@ -404,33 +404,34 @@ cross = ["+"]
 eyes_open = ["Por favor, abra os olhos e olhe fixamente para o sinal de +"]
 eyes_closed = ["Por favor, feche os olhos. Eu aviso quando você puder abri-los novamente."]
 
-# Mind Logger screens
-mindlogger_start = ["Now it is time to play on the iPad!", "Please listen to the research assistant.", "", "", "Click 'Next' when task is complete."]
-rey_copy_instrc = ["When you are ready, click 'Next' to begin Rey Copy Task.", "", "", "Click 'Next' to continue."]
-rey_copy = ["Rey Copy", "", "", "Click 'Next' when you are finished."]
-alpha_instrc = ["When you are ready, click 'Next' to begin Alpha Task.", "", "", "Click 'Next' to continue."]
-alpha = ["Alpha", "", "", "Click 'Next' when you are finished."]
-sprial_dominat_instrc = ["When you are ready, click 'Next' to begin Spiral Drawing Dominant.", "", "", "Click 'Next' to continue."]
-sprial_dominat = ["Spiral Drawing Dominant", "", "", "Click 'Next' when you are finished."]
-spiral_nondominat_instrc = ["When you are ready, click 'Next' to beging Spiral Drawing Non-Dominant.", "", "", "Click 'Next' to continue."]
-spiral_nondominat = ["Spiral Drawing Non-Dominant", "", "", "Click 'Next' when you are finished."]
-digit_symbol_sub_instrc = ["When you are ready, click 'Next' to begin Digit Symbol Subsitution.", "", "", "Click 'Next' to continue."]
-digit_symbol_sub = ["Digit Symbol Substitution", "", "", "Click 'Next' when you are finished."]
-rey_delay_instrc = ["When you are ready, click 'Next' to begin Rey Delay.", "", "", "Click 'Next' to continue."]
-rey_delay = ["Rey Delay", "", "", "Click 'Next' when you are finished."]
-trails_instrc = ["When you are ready, click 'Next' to begin Trails.", "", "", "Click 'Next' to continue."]
-trails = ["Trails", "", "", "Click 'Next' when you are finished."]
+# # Mind Logger screens
+# mindlogger_start = ["Now it is time to play on the iPad!", "Please listen to the research assistant.", "", "", "Click 'Next' when task is complete."]
+# rey_copy_instrc = ["When you are ready, click 'Next' to begin Rey Copy Task.", "", "", "Click 'Next' to continue."]
+# rey_copy = ["Rey Copy", "", "", "Click 'Next' when you are finished."]
+# alpha_instrc = ["When you are ready, click 'Next' to begin Alpha Task.", "", "", "Click 'Next' to continue."]
+# alpha = ["Alpha", "", "", "Click 'Next' when you are finished."]
+# sprial_dominat_instrc = ["When you are ready, click 'Next' to begin Spiral Drawing Dominant.", "", "", "Click 'Next' to continue."]
+# sprial_dominat = ["Spiral Drawing Dominant", "", "", "Click 'Next' when you are finished."]
+# spiral_nondominat_instrc = ["When you are ready, click 'Next' to beging Spiral Drawing Non-Dominant.", "", "", "Click 'Next' to continue."]
+# spiral_nondominat = ["Spiral Drawing Non-Dominant", "", "", "Click 'Next' when you are finished."]
+# digit_symbol_sub_instrc = ["When you are ready, click 'Next' to begin Digit Symbol Subsitution.", "", "", "Click 'Next' to continue."]
+# digit_symbol_sub = ["Digit Symbol Substitution", "", "", "Click 'Next' when you are finished."]
+# rey_delay_instrc = ["When you are ready, click 'Next' to begin Rey Delay.", "", "", "Click 'Next' to continue."]
+# rey_delay = ["Rey Delay", "", "", "Click 'Next' when you are finished."]
+# trails_instrc = ["When you are ready, click 'Next' to begin Trails.", "", "", "Click 'Next' to continue."]
+# trails = ["Trails", "", "", "Click 'Next' when you are finished."]
 
 # NEW Sync Audio Screens
 sync_audio_instrc = [
-    "VOLUME ADJUSTMENT",
-    "We are going to play a game where you will listen",
-    "to sounds and need to whisper with the sounds. Before",
-    "we start our game, we need to make sure you can hear",
-    "the sounds in the headphones. I will help you adjust the",
-    "volume as loud as you can without hurting your ears.",
-    "", "", "Press 'Next' to continue."
+    "AJUSTE DE VOLUME",
+    "Vamos jogar um jogo onde você vai escutar alguns sons e ,
+    "vai precisar sussurrar junto com eles. Antes de começar o,
+    " nosso jogo, precisamos garantir que você esteja ouvindo ,
+    "bem os sons nos fones de ouvido. Eu vou te ajudar a ajustar,
+    "o volume para ficar o mais alto possível, mas sem machucar os seus ouvidos.,
+    "", "", "PClique em ‘Avançar’ para continuar."
 ]
+
 increase_vol = ["Increase the volume to a loud, but comfortable level."]
 sync_test_instruc_1 = [
     "SYNCHRONY TEST", "",
