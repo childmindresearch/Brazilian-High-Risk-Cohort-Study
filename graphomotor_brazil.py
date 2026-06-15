@@ -455,25 +455,24 @@ whisper_ta_instrc = [
     "", "Clique em ‘Avançar’ para continuar."
 ]
 whisper_ta = ["Gravando! Continue sussurrando ‘ta ta ta’."]
-
 sync_test_instruc_2 = [
-    "SYNCHRONY TEST", "",
-    "We are ready to play the game! You will now hear some sounds through your",
-    "headphones. While the sounds are playing, you will whisper 'ta', like we",
-    "practiced AT THE SAME TIME. You will whisper 'ta' while you are listening to",
-    "the sounds and you must whisper 'ta' at the same speed as the sounds. "
-    "Remember, you are going to:", "", "", 
-    "1) Whisper and do not speak loudly.", "",
-    "2) You must whisper 'ta' the entire time the sounds are playing at the same speed the sounds are playing.", "",
-    "3) Make sure you look at the cross on the screen while you do it.",
-    "", "", "Press 'Next' when ready!"
+    "TESTE DE SINCRONIA", "",
+    "Estamos prontos para jogar! Agora você vai ouvir alguns sons pelos fones de ouvido.",
+    "Enquanto os sons estiverem tocando, você vai sussurrar ‘ta’ ",
+    "AO MESMO TEMPO, assim como praticamos. Você vai sussurrar ‘ta’ enquanto escuta",
+    "os sons e deve sussurrar ‘ta’ na mesma velocidade desses sons.",
+    "Lembre-se, você deve:", "", "", 
+    "1) Sussurrar e não falar alto.", "",
+    "2) Sussurrar ‘ta’ durante todo o tempo em que os sons estiverem tocando, na mesma velocidade com que tocam.", "",
+    "3) Mantenha o olhar fixo no sinal de + enquanto realiza a tarefa.",
+    "", "", "Clique em ‘Avançar’ quando estiver pronto(a)!"
 ]
 
 # Video Screens
-video_start_instrc = ["You will now watch some videos!", "", "", "Press 'Next' to continue."]
+video_start_instrc = ["Agora vocês vão assistir alguns vídeos!", "", "", "Clique em ‘Avançar’ para continuar."]
 
 # Break Screen 
-break_screen = ["Awesome job! Let's do another task!", "", "", "Press 'Next' to continue."]
+break_screen = ["Arrasou! Bora fazer mais uma tarefa!", "", "", "Clique em ‘Avançar’ para continuar."]
 
 # PROTOCOL ##################
 ##############################
