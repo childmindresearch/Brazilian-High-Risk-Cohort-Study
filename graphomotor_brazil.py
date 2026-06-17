@@ -469,10 +469,10 @@ sync_test_instruc_2 = [
 ]
 
 # Video Screens
-video_start_instrc = ["Agora vocês vão assistir alguns vídeos!", "", "", "Clique em ‘Avançar’ para continuar."]
+video_start_instrc = ["Agora você vai assistir a alguns vídeos!", "", "", "Clique em ‘Avançar’ para continuar."]
 
 # Break Screen 
-break_screen = ["Arrasou! Bora fazer mais uma tarefa!", "", "", "Clique em ‘Avançar’ para continuar."]
+break_screen = ["Arrasou! Vamos fazer mais uma tarefa", "", "", "Clique em ‘Avançar’ para continuar."]
 
 # PROTOCOL ##################
 ##############################
